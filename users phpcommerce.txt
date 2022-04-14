@@ -1,0 +1,9 @@
+admin:
+Nome -> MasterPHP
+Email -> masterPHP@comercio.com
+Senha -> phMASTERp
+
+other user
+Nome -> Usuario1
+Email -> usuario01@comercio.com
+Senha -> uSER101010
